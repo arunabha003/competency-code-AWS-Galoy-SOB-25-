@@ -1,1 +1,0 @@
-# competency-code-AWS-Galoy-SOB-25-
